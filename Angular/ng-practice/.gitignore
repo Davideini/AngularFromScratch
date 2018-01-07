@@ -43,4 +43,4 @@ yarn-error.log
 Thumbs.db
 
 # ignore this files
-/package-lock.json
+package-lock.json
